@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoblessingM
 - 👀 I’m interested in ...NLP, Machine Learning, Machine Translation
-- 🌱 I’m currently learning ... Computational Linguistics (Masters)
+- 🌱 Recentky graduated in ... Computational Linguistics (Masters)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
